@@ -1,1 +1,2 @@
-# courier_service_app
+Project Title: Courier Application Web
+This project is a web application that create avenue for individual to track their courier services using the track number. The application consists of frontend for user interaction and the admin panel for positn of waybill items and updating the process of the waybill for owners to track their waybills. This is recommendable for any waybill company that might want to keep track of thier waybill activities for seamless operation.
