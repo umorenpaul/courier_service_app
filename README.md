@@ -34,6 +34,9 @@ git clone https://github.com/umorenpaul/courier_service_app.git
 <p>The courier application does not need any configuration, just clone it, setup the database and the apache server to run the application </p>
 <strong>Usage</strong>
 <p> The application is a typical web application, once you have uploaded it to your either online or your local system, just enter the address on your browser</p>
+<p>
+  To access the admin panel, the username is paul@gmail.com, the pssword is 12345
+</p>
 <strong>Directory Structure</strong>
 <pre>  
 |   about.php
