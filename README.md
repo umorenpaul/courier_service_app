@@ -21,3 +21,19 @@
 <li>Apache/Nginx web server</li>
 <li>Composer (optional)</li>
 </ul>
+<strong>Installation</strong>
+<ol>
+<li>Clone the repository:</li><br>
+git clone https://github.com/umorenpaul/courier_service_app.git
+<li> Create a new MySQL database for the application</li>
+  the database name is courier.sql
+<li>Navigate to the Database Directory to import the database</li><br>
+  cd admin-panel/db
+</ol>
+<strong>Configuration</strong>
+<p>The courier application does not need any configuration, just clone it, setup the database and the apache server to run the application </p>
+<strong>Usage</strong>
+<p> The application is a typical web application, once you have uploaded it to your either online or your local system, just enter the address on your browser</p>
+
+
+
