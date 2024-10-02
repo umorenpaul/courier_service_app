@@ -14,3 +14,10 @@
 <li>Contributing</li>
 <li>License</li>
 </ul>
+<strong>Requirements</strong>
+<ul>
+<li> PHP 5.5 or higher</li>
+<li>MySQL 5.6 or higher</li>
+<li>Apache/Nginx web server</li>
+<li>Composer (optional)</li>
+</ul>
