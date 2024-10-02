@@ -243,4 +243,9 @@ git clone https://github.com/umorenpaul/courier_service_app.git
             |
             \---language
   </pre>    
-
+<strong>Technologies Used</strong>
+<ul>
+<li>PHP</li>
+<li>MySQL</li>
+<li>AJAX</li>
+</ul>
